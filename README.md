@@ -29,9 +29,3 @@ The goal is to evaluate Monte Carlo valuation performance under different payoff
 - Observe convergence behavior under increased simulation paths  
 
 ---
-
-## How to Use
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/<YourRepoPath>.git
